@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NatEFFIE
 - 👀 I’m interested in boardgames, active sports and clinic psycology
 - Adore cats;))
-- - 🌱 I’m currently learning Python and statistics for data analisys
+- - 🌱 I’m currently learning Python, SQL and statistics for data analisys
 - 📫 How to reach me: gleeful@bk.ru
 
 <!---
