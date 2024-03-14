@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 COURSES FINISHED
 
-Stats and maths:
+StATISTICS & MATH:
 
 Mathimatical stats: https://stepik.org/course/326
 
